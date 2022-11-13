@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello, my name is Marisa
+
+I've been working at Apple for a little over a year and have always had an appreciation for technology and an interest in how it works. Now I'm learning how to code in java through the Promineo Tech Backend Software Development Bootcamp. I hope to get a job as a software developer and learn more about how software works. I want to learn even more languages once I'm comfortable with java. 
+I'm currently learning about loops and conditions.  My pronouns are she/her. 
 
 <!--
 **marisalynnae/marisalynnae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
